@@ -24,6 +24,6 @@ Python · Rust · TypeScript · Go · Next.js · PostgreSQL · pgvector · DuckD
 
 ### Education
 
-MBA in Software Engineering, Escola Politécnica (USP), 2026–2028, in progress · Bachelor's Degree in Business Administration, Ibmec
+MBA in Software Engineering, Polytechnic School, University of São Paulo (USP), 2026–2028, in progress · Bachelor's Degree in Business Administration, Ibmec (Brazil)
 
 [LinkedIn](https://www.linkedin.com/in/limaronaldo)
